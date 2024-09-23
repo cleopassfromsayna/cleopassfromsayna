@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hello, I'm Clépass!
+I come from Sayna, a digital school dedicated to learning digital professions. Sayna emphasizes three core values:
+🎯 Family
+🎯 Fun
+🎯 Challenge
 
-<!--
-**cleopassfromsayna/cleopassfromsayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
 
-Here are some ideas to get you started:
+    Although I'm passionate about coding, I'm not a developer yet.
+    Currently, I'm learning a lot about development, especially how to learn to code.
+    I'm open to collaborating on various projects and exploring different working methods around the world.
+    ✨ Looking forward to connecting and/or collaborating with you! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Contact
+Feel free to reach out to me at: cleopass.14@gmail.com
+More about Sayna :https://sayna.io/
